@@ -1,0 +1,16 @@
+{
+    "name": "edsonalvesan/laravel-citiesbr",
+    "description": "Pacote Laravel de Cidades e Estados brasileiros com migrations, models e seeds.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edson Alves",
+            "email": "edson.alvesan@gmail.com"
+        }
+    ],        
+    "autoload": {
+        "psr-4": {
+            "EdsonAlvesan\\Cities\\": "src/"
+        }
+    }
+}
